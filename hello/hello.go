@@ -8,6 +8,6 @@ import (
 )
 
 func main() {
-	fmt.Println(morestrings.ReverseRunes("!gaF uoY ,olleH"))
+	fmt.Println(morestrings.ReverseRunes("!olleH"))
 	fmt.Println(cmp.Diff("Hello World", "Hello Go"))
 }
